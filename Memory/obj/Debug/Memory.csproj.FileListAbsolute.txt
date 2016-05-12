@@ -1,0 +1,32 @@
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.pdb
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.Form1.resources
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.exe
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.pdb
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.Form2.resources
+c:\users\walee\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.UserControl1.resources
+C:\Users\Waleed\Desktop\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\Waleed\Desktop\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Waleed\Desktop\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.Form2.resources
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.UserControl1.resources
+C:\Users\Waleed\Desktop\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+E:\Memory\Memory\bin\Debug\Memory.exe.config
+E:\Memory\Memory\obj\Debug\Memory.exe
+E:\Memory\Memory\obj\Debug\Memory.pdb
+E:\Memory\Memory\bin\Debug\Memory.exe
+E:\Memory\Memory\bin\Debug\Memory.pdb
+E:\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+E:\Memory\Memory\obj\Debug\Memory.Form1.resources
+E:\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+E:\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+E:\Memory\Memory\obj\Debug\Memory.Form2.resources
